@@ -1,0 +1,2 @@
+Criar hooks personalizados serve para quando temos funções complexas dentro do nosso código.
+No caso, temos funções que adicionam, removem itens do carrinho. Colocando elas dentro de um hook personalizado, é mais fácil de acessá-las dentro do código, e deixar separado sem se misturar com os demais códigos. 
